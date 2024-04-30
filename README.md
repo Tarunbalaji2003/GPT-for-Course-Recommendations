@@ -5,7 +5,7 @@ This is an end to end LLM project based on Google Palm and Langchain.
 
 ## Project Highlights
 
-- Use a real CSV file of FAQs that Codebasics company is using right now. 
+- Use a real CSV file of FAQs . 
 - Their human staff will use this file to assist their course learners.
 - We will build an LLM based question and answer system that can reduce the workload of their human staff.
 - Students should be able to use this system to ask questions directly and get answers within seconds
