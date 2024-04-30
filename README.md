@@ -14,7 +14,7 @@ This is an end to end LLM project based on Google Palm and Langchain.
   - Langchain + Google Palm: LLM based Q&A
   - Streamlit: UI
   - Huggingface instructor embeddings: Text embeddings
-  - FAISS: Vector databse
+  - FAISS: Vector database
 
 ## Installation
 
